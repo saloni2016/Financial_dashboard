@@ -36,12 +36,14 @@ The project is structured around a multi-page report:
 * **Loan Status Grid View:** A comprehensive table categorized by **'Loan Status'** (e.g., Fully Paid, Current, Default) showing key metrics for each status.
 
   <img width="1431" height="801" alt="Summary" src="https://github.com/user-attachments/assets/e48c63fa-09e9-4e9d-b0a9-c106cd00dd02" />
+  
+### 3. Overview Dashboard
 
   <img width="1435" height="801" alt="Overview" src="https://github.com/user-attachments/assets/e4f5a0e9-5613-460f-b761-efd5ca02eba6" />
 
 
 
-### 2. Details Dashboard
+### 3. Details Dashboard
 
 * **Grid View:** Provides a consolidated, holistic snapshot of all key loan-related metrics and data points.
 * **Objective:** Offers a user-friendly interface for detailed insights into the loan portfolio, borrower profiles, and individual loan performance.
