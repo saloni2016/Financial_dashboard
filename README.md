@@ -49,7 +49,7 @@ The project is structured around a multi-page report:
 <img width="1430" height="801" alt="Details" src="https://github.com/user-attachments/assets/19f5c835-a11a-4c59-8c7a-d584d47fb4e0" />
 
 
-## 🛠 Technologies and Skills Used
+##  Technologies and Skills Used
 
 This project showcases expertise in data engineering, modeling, and visualization:
 
@@ -61,7 +61,7 @@ This project showcases expertise in data engineering, modeling, and visualizatio
 * **Core Functions:** `CALCULATE`, `SUM`/`SUMX`, Date Function, Text Function, Filter Function.
 
 
-## 📚 Key Data Terminology
+##  Key Data Terminology
 
 The analysis relies on understanding key fields used for risk assessment and performance tracking:
 
