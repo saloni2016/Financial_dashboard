@@ -37,7 +37,7 @@ The project is structured around a multi-page report:
 
   <img width="1431" height="801" alt="Summary" src="https://github.com/user-attachments/assets/e48c63fa-09e9-4e9d-b0a9-c106cd00dd02" />
   
-### 3. Overview Dashboard
+### 2. Overview Dashboard
 
   <img width="1435" height="801" alt="Overview" src="https://github.com/user-attachments/assets/e4f5a0e9-5613-460f-b761-efd5ca02eba6" />
 
