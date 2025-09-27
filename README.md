@@ -35,11 +35,11 @@ The project is structured around a multi-page report:
 * **Good Loan vs Bad Loan Analysis:** A side-by-side comparison of 'Good Loan' and 'Bad Loan' performance based on Application Percentage, Applications, Funded Amount, and Total Received Amount.
 * **Loan Status Grid View:** A comprehensive table categorized by **'Loan Status'** (e.g., Fully Paid, Current, Default) showing key metrics for each status.
 
-  <img width="1431" height="801" alt="Summary" src="https://github.com/user-attachments/assets/e48c63fa-09e9-4e9d-b0a9-c106cd00dd02" />
+<img width="1431" height="801" alt="Summary" src="https://github.com/user-attachments/assets/e48c63fa-09e9-4e9d-b0a9-c106cd00dd02" />
   
 ### 2. Overview Dashboard
 
-  <img width="1435" height="801" alt="Overview" src="https://github.com/user-attachments/assets/e4f5a0e9-5613-460f-b761-efd5ca02eba6" />
+<img width="1435" height="801" alt="Overview" src="https://github.com/user-attachments/assets/e4f5a0e9-5613-460f-b761-efd5ca02eba6" />
 
 
 
